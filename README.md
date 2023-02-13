@@ -7,7 +7,6 @@ This is my personal portfolio website, showcasing my projects and experiences.
 - HTML
 - CSS
 - JavaScript
-- [Insert any other technologies used]
 
 ## Features
 
