@@ -161,7 +161,6 @@ section .title::after{
     filter: brightness(90%);
 }
 
-
 /* home section styling */
 .home{
     display: flex;
