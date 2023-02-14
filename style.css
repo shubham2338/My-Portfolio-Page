@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rgb(204, 134, 4);
+    background: #cc8604;
 }
 .navbar .max-width{
     display: flex;
@@ -252,7 +252,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: rgb(58, 148, 227);
+    color: #3a94e3;
     background: none;
 }
 
